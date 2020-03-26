@@ -1,4 +1,6 @@
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+```diff
+! RV-DetectionPipeline
+```
 # RV-DetectionPipeline
 A simple and fast detection pipeline following Zechmeister et al (2009). This pipeline utilizes Radvel, an RV fitting software, from Fulton et al. (2018)
 
