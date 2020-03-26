@@ -34,3 +34,5 @@ pip nstall os
 pip install random
 pip install time
 ```
+## Usage
+This repo is currently under construction and will be updated as soon as possible!
