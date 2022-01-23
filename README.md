@@ -1,7 +1,7 @@
 # RV-DetectionPipeline
-A simple and fast detection pipeline following Zechmeister et al (2009). This pipeline utilizes Radvel, an RV fitting software, from Fulton et al. (2018)
+Following Zechmeister et al (2009). This pipeline utilizes Radvel, an RV fitting software, from Fulton et al. (2018)
 
-Feel free to look around. This repo is still under construction to make it more robust (and clean up some code). Please let me know if you spot any bugs!
+This repo is still under construction to make it more robust, work on bugs, and clean up code. Please let me know if you spot any bugs!
 
 ## Dependencies
 
@@ -13,14 +13,12 @@ This pipeline uses the following software:
 - statsmodels
 - pandas
 - matplotlib
-- Radvel*
+- Radvel
 - os
 - random 
 - time
 
-*I used the Radvel radial velocity fitting software, courtesy of Fulton et al. (2018)
-
-You should have a lot of these libraries in your system. However, if you don't, they can be installed with pip as follows:
+Installing library with pip as follows:
 
 ```bash
 pip install numpy
