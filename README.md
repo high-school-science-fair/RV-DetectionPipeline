@@ -1,5 +1,5 @@
 # RV-DetectionPipeline
-Following Zechmeister et al (2009). This pipeline utilizes Radvel, an RV fitting software, from Fulton et al. (2018)
+Following Zechmeister et al (2009). This pipeline utilizes Radvel, an RV fitting software, from Fulton et al. (2018). This was for 2019-2020 research methods project.
 
 This repo is still under construction to make it more robust, work on bugs, and clean up code. Please let me know if you spot any bugs!
 
